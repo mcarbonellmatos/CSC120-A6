@@ -10,7 +10,7 @@ Listed below are various aspects of the assignment.  When you turn in your work,
 
 ## Assignment Points:
 
-_____ 10 pts: The class meaningfully implements each of the tests in described in the `TrainTest.java`:
+___Yes__ 10 pts: The class meaningfully implements each of the tests in described in the `TrainTest.java`:
 
       _____ `testEngineConstructor()`
       _____ `testEngineGo()`
@@ -25,9 +25,9 @@ _____ 10 pts: The class meaningfully implements each of the tests in described i
 
 ## General Items:
 
-_____ 4 pts: Programs compile without errors or warnings
+__Yes___ 4 pts: Programs compile without errors or warnings
 
-_____ 2 pts: Executes fully & consistently without crashing (exception/freeze)
+__Yes___ 2 pts: Executes fully & consistently without crashing (exception/freeze)
 
 _____ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
@@ -41,6 +41,6 @@ _____ 2 pt: Complies with style guidelines (missing items 1 pt each):
 
       _____ Methods avoid confusing side effects
 
-_____ 1 pt: All required files included with submission (including completed `rubric.md` file)
+____Yes_ 1 pt: All required files included with submission (including completed `rubric.md` file)
 
-_____ 1 pt: `reflection.md` contains your reflection on the assignment, **including a detailed description of the tests you implemented and what they do**
+___Yes__ 1 pt: `reflection.md` contains your reflection on the assignment, **including a detailed description of the tests you implemented and what they do**
